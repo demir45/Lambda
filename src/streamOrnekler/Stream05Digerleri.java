@@ -3,7 +3,7 @@ package streamOrnekler;
 import java.util.List;
 import java.util.stream.*;
 
-public class Sream05Digerleri {
+public class Stream05Digerleri {
 /*
           Collection'larimizi stream method;u ile Stream'e cevirmeyi ogrendik.
           Collection : List,Map,HashMap vb..

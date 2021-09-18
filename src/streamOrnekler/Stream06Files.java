@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.Locale;
 import java.util.stream.Stream;
 
-public class Steram06Files {
+public class Stream06Files {
 
     public static void main(String[] args) throws IOException{
 
